@@ -16,7 +16,7 @@ use Encode;
 #============================================
 # 設定
 #============================================
-my $URL      = "https://login.yahoo.co.jp/config/login?.ct=tn.uNy_4b1qg__yo.Xeas8Nw&.src=ym&.done=http%3A%2F%2Fmail.yahoo.co.jp&.challenge=UGaEhGfZeBNxl12S95r2JG8DbEMr&.v=0&.display=&ckey=";
+my $URL      = "mail.yahoo.co.jp/";
 my $ACCOUNT  = 'your_accont';
 my $PASSWORD = 'your_passowrd';
 
